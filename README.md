@@ -3,7 +3,7 @@
 **The name of the folder should be without spaces or any "_" write the name in CamelCase way**<br/>
 1:<br/>
     install python if you haven't.<br/>
-    git clone git@github.com:AlwaleedAlroomi/Python_Automate_Projetc-.git<br/>
+    git clone https://github.com/AlwaleedAlroomi/Python_Automate_Projetc-.git<br/>
 2:<br/>
     Open the project folder in cmd or cmder and type:<br/>
         pip install -r requirements.txt<br/>
